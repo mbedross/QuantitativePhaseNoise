@@ -1,0 +1,34 @@
+\begin{thebibliography}{1}
+
+\bibitem{creath1988v}
+Katherine Creath.
+\newblock Phase-measurement interferometry techniques.
+\newblock {\em Progress in optics}, 26:349--393, 1988.
+
+\bibitem{ghiglia:94}
+Dennis~C. Ghiglia and Louis~A. Romero.
+\newblock Robust two-dimensional weighted and unweighted phase unwrapping that
+  uses fast transforms and iterative methods.
+\newblock {\em J. Opt. Soc. Am. A}, 11(1):107--117, Jan 1994.
+
+\bibitem{Herraez:02}
+Miguel~Arevallilo Herr\'{a}ez, David~R. Burton, Michael~J. Lalor, and
+  Munther~A. Gdeisat.
+\newblock Fast two-dimensional phase-unwrapping algorithm based on sorting by
+  reliability following a noncontinuous path.
+\newblock {\em Appl. Opt.}, 41(35):7437--7444, Dec 2002.
+
+\bibitem{kaufmann:98}
+Guillermo~H. Kaufmann, Gustavo~E. Galizzi, and Pablo~D. Ruiz.
+\newblock Evaluation of a preconditioned conjugate-gradient algorithm for
+  weighted least-squares unwrapping of digital speckle-pattern interferometry
+  phase maps.
+\newblock {\em Appl. Opt.}, 37(14):3076--3084, May 1998.
+
+\bibitem{spanne1999line}
+P~Spanne, C~Raven, I~Snigireva, and A~Snigirev.
+\newblock In-line holography and phase-contrast microtomography with high
+  energy x-rays.
+\newblock {\em Physics in medicine and biology}, 44(3):741, 1999.
+
+\end{thebibliography}

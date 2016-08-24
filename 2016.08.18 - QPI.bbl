@@ -1,0 +1,138 @@
+\begin{thebibliography}{10}
+
+\bibitem{burch1942phase}
+CR~Burch and JPP Stock.
+\newblock Phase-contrast microscopy.
+\newblock {\em Journal of Scientific Instruments}, 19(5):71, 1942.
+
+\bibitem{charriere2006shot}
+Florian Charri{\`e}re, Tristan Colomb, Fr{\'e}d{\'e}ric Montfort, Etienne
+  Cuche, Pierre Marquet, and Christian Depeursinge.
+\newblock Shot-noise influence on the reconstructed phase image signal-to-noise
+  ratio in digital holographic microscopy.
+\newblock {\em Applied optics}, 45(29):7667--7673, 2006.
+
+\bibitem{creath1988v}
+Katherine Creath.
+\newblock Phase-measurement interferometry techniques.
+\newblock {\em Progress in optics}, 26:349--393, 1988.
+
+\bibitem{cuche1999digital}
+Etienne Cuche, Frederic Bevilacqua, and Christian Depeursinge.
+\newblock Digital holography for quantitative phase-contrast imaging.
+\newblock {\em Optics letters}, 24(5):291--293, 1999.
+
+\bibitem{cuche2000spatial}
+Etienne Cuche, Pierre Marquet, and Christian Depeursinge.
+\newblock Spatial filtering for zero-order and twin-image elimination in
+  digital off-axis holography.
+\newblock {\em Applied optics}, 39(23):4070--4075, 2000.
+
+\bibitem{demoli2014digital}
+Nazif Demoli, Hrvoje Skenderovi{\'c}, and Mario Stip{\v{c}}evi{\'c}.
+\newblock Digital holography at light levels below noise using a
+  photon-counting approach.
+\newblock {\em Optics letters}, 39(17):5010--5013, 2014.
+
+\bibitem{gureyev1997rapid}
+Timur~E Gureyev and Keith~A Nugent.
+\newblock Rapid quantitative phase imaging using the transport of intensity
+  equation.
+\newblock {\em Optics communications}, 133(1):339--346, 1997.
+
+\bibitem{kim2006interference}
+Myung~K Kim, Lingfeng Yu, and Christopher~J Mann.
+\newblock Interference techniques in digital holography.
+\newblock {\em Journal of Optics A: Pure and Applied Optics}, 8(7):S518, 2006.
+
+\bibitem{lai2015resolution}
+Xin-Ji Lai, Han-Yen Tu, Chung-Hsin Wu, Yu-Chih Lin, and Chau-Jern Cheng.
+\newblock Resolution enhancement of spectrum normalization in synthetic
+  aperture digital holographic microscopy.
+\newblock {\em Applied optics}, 54(1):A51--A58, 2015.
+
+\bibitem{le2015improving}
+Thanh~Bang Le, Meilan Piao, Jong-Rae Jeong, Seok-Hee Jeon, and Nam Kim.
+\newblock Improving phase contrast of digital holographic microscope using
+  spatial light modulator.
+\newblock {\em Journal of the Optical Society of Korea}, 19(1):22--28, 2015.
+
+\bibitem{lue2007quantitative}
+Niyom Lue, Wonshik Choi, Gabriel Popescu, Takahiro Ikeda, Ramachandra~R Dasari,
+  Kamran Badizadegan, and Michael~S Feld.
+\newblock Quantitative phase imaging of live cells using fast fourier phase
+  microscopy.
+\newblock {\em Applied Optics}, 46(10):1836--1842, 2007.
+
+\bibitem{mann2006quantitative}
+Christopher~J Mann and MK~Kim.
+\newblock Quantitative phase-contrast microscopy by angular spectrum digital
+  holography.
+\newblock In {\em Biomedical Optics 2006}, pages 60900B--60900B. International
+  Society for Optics and Photonics, 2006.
+
+\bibitem{matrecano2015improving}
+Marcella Matrecano, Pasquale Memmolo, Lisa Miccio, Anna Persano, Fabio
+  Quaranta, Pietro Siciliano, and Pietro Ferraro.
+\newblock Improving holographic reconstruction by automatic butterworth
+  filtering for microelectromechanical systems characterization.
+\newblock {\em Applied optics}, 54(11):3428--3432, 2015.
+
+\bibitem{memmolo2014encoding}
+Pasquale Memmolo, Vittorio Bianco, Melania Paturzo, Bahram Javidi, Paolo~A
+  Netti, and Pietro Ferraro.
+\newblock Encoding multiple holograms for speckle-noise reduction in optical
+  display.
+\newblock {\em Optics express}, 22(21):25768--25775, 2014.
+
+\bibitem{molaei2014imaging}
+Mehdi Molaei and Jian Sheng.
+\newblock Imaging bacterial 3d motion using digital in-line holographic
+  microscopy and correlation-based de-noising algorithm.
+\newblock {\em Optics express}, 22(26):32119--32137, 2014.
+
+\bibitem{pan2011coherent}
+Feng Pan, Wen Xiao, Shuo Liu, FanJing Wang, Lu~Rong, and Rui Li.
+\newblock Coherent noise reduction in digital holographic phase contrast
+  microscopy by slightly shifting object.
+\newblock {\em Optics express}, 19(5):3862--3869, 2011.
+
+\bibitem{sharma2008improvement}
+Akshay Sharma, Gyanendra Sheoran, ZA~Jaffery, et~al.
+\newblock Improvement of signal-to-noise ratio in digital holography using
+  wavelet transform.
+\newblock {\em Optics and lasers in engineering}, 46(1):42--47, 2008.
+
+\bibitem{tango1980iv}
+William~J Tango and RQ~Twiss.
+\newblock Iv michelson stellar interferometry.
+\newblock {\em Progress in Optics}, 17:239--277, 1980.
+
+\bibitem{wang2014point}
+Huaying Wang, Mengjie Yu, Yanan Jiang, Qiaofen Zhu, and Feifei Liu.
+\newblock Point spread function and lateral resolution analysis of digital
+  holographic microscopy system.
+\newblock {\em Optics Communications}, 322:90--96, 2014.
+
+\bibitem{wang2015new}
+Zhaomin Wang, Weijuan Qu, Yongfu Wen, Fang Yang, and Anand Asundi.
+\newblock A new phase error compensation method in digital holographic
+  microscopy.
+\newblock In {\em International Conference on Experimental Mechanics 2014},
+  pages 93023M--93023M. International Society for Optics and Photonics, 2015.
+
+\bibitem{zernike1934diffraction}
+F~Zernike.
+\newblock Diffraction theory of the knife-edge test and its improved form, the
+  phase-contrast method.
+\newblock {\em Monthly Notices of the Royal Astronomical Society}, 94:377--384,
+  1934.
+
+\bibitem{zhang2011coherent}
+Yizhuo Zhang, Dayong Wang, Yunxin Wang, Zhiwei Zhou, and Jie Zhao.
+\newblock Coherent noise reduction in digital holographic phase contrast
+  microscopy by varying the reference wave.
+\newblock In {\em Smart Nano-Micro Materials and Devices}, pages
+  82042U--82042U. International Society for Optics and Photonics, 2011.
+
+\end{thebibliography}
